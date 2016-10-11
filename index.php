@@ -1,5 +1,5 @@
 <?php
 
-//stef smells
+echo('stef smells');
 
 ?>
